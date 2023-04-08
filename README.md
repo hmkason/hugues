@@ -1,1 +1,3 @@
 # hugues
+
+Hello class 
